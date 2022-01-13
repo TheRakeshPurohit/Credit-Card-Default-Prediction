@@ -1,0 +1,10 @@
+2022-01-13/15:00:15		Data Ingestion is Successful
+2022-01-13/15:00:15		Data Ingestion is Successful
+2022-01-13/15:00:15		Data Ingestion is Successful
+2022-01-13/15:00:19		Data Ingestion is Successful
+2022-01-13/15:00:21		Data Ingestion is Successful
+2022-01-13/15:03:34		Data Ingestion is Successful
+2022-01-13/15:03:35		Data Ingestion is Successful
+2022-01-13/15:03:35		Data Ingestion is Successful
+2022-01-13/15:03:38		Data Ingestion is Successful
+2022-01-13/15:03:39		Data Ingestion is Successful

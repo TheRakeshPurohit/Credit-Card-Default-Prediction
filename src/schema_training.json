@@ -1,0 +1,25 @@
+{
+  "FileName": "train.csv",
+  "NumberofColumns": 19,
+  "ColumnNames": {
+    "customer_id": "object",
+    "name": "object",
+    "age": "int64",
+    "gender": "object",
+    "owns_car": "object",
+    "owns_house": "object",
+    "no_of_children": "float64",
+    "net_yearly_income": "float64",
+    "no_of_days_employed": "float64",
+    "occupation_type": "object",
+    "total_family_members": "float64",
+    "migrant_worker": "float64",
+    "yearly_debt_payments": "float64",
+    "credit_limit": "float64",
+    "credit_limit_used(%)": "int64",
+    "credit_score": "float64",
+    "prev_defaults": "int64",
+    "default_in_last_6months": "int64",
+    "credit_card_default": "int64"
+  }
+}

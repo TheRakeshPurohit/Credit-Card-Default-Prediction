@@ -1,0 +1,20 @@
+2022-01-13/15:00:28		Logistic Regression model is trained successfully
+2022-01-13/15:00:28		Decision Tree model is trained successfully
+2022-01-13/15:00:29		Random Forest model is trained successfully
+2022-01-13/15:00:39		LightGBM model is trained successfully
+2022-01-13/15:00:39		XGBoost model is trained successfully
+2022-01-13/15:00:40		Logistic Regression model is trained successfully
+2022-01-13/15:00:40		Decision Tree model is trained successfully
+2022-01-13/15:00:42		Random Forest model is trained successfully
+2022-01-13/15:00:53		LightGBM model is trained successfully
+2022-01-13/15:00:54		XGBoost model is trained successfully
+2022-01-13/15:03:46		Logistic Regression model is trained successfully
+2022-01-13/15:03:46		Decision Tree model is trained successfully
+2022-01-13/15:03:48		Random Forest model is trained successfully
+2022-01-13/15:04:00		LightGBM model is trained successfully
+2022-01-13/15:04:01		XGBoost model is trained successfully
+2022-01-13/15:04:02		Logistic Regression model is trained successfully
+2022-01-13/15:04:02		Decision Tree model is trained successfully
+2022-01-13/15:04:03		Random Forest model is trained successfully
+2022-01-13/15:04:13		LightGBM model is trained successfully
+2022-01-13/15:04:14		XGBoost model is trained successfully
